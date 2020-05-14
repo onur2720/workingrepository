@@ -1,0 +1,41 @@
+doctype html
+html(lang='en')
+    include ../common/head.pug
+    +head("Loans")
+    body
+        header
+            include ../common/navbar.pug
+            +navbar()
+            .container
+                .row.align-items-center
+                    .col-md-6.order-md-1.text-center.text-md-left.pr-md-5
+                        h1 Loans
+                        table.table
+                            thead
+                                tr
+                                    th(scope="col") Din info
+                                    th(scope="col") Valgmuligheder
+                                    th(scope="col")
+                                tr
+                            tbody
+                                for loan in loans
+                                    tr(id=loan.id)
+                                        td
+                                            span #{loan.email}
+                                        td
+                                            span #{loan.number}
+                                        td
+                                            span #{loan.text}
+                                        td
+
+                                            span #{loan.number1}
+
+                                        td
+                                            span #{loan.number2}
+                                        td
+                                            a(href="/loan/" + loan.id) Detaljer
+                                        td
+                                            button(onclick=`deleteLoan('${loan.id}')`).btn.btn-primary Slet
+        include ../common/footer.pug
+        +footer()
+        script(src='/javascripts/loans.js')

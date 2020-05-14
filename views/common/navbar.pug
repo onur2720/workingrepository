@@ -1,0 +1,21 @@
+mixin navbar(user)
+    nav.navbar.navbar-expand.navbar-light.bg-light
+        a(href="/", aria-label="Golden Goose").navbar-brand.mr-0.mr-md-2
+            img(src="/images/1200px-Money_Flat_Icon.svg.png", width="36", height="36")
+        .collapse.navbar-collapse
+            ul.navbar-nav.mr-auto
+                li.nav-item
+                    a.nav-link(href="/") Hjem
+                li.nav-item
+                    a.nav-link(href="/loans") Mine lån
+        .navbar-right
+            if user
+                span.navbar-text Hej #{user.email}!
+        .navbar-right
+            ul.navbar-nav.mr-auto
+                li.nav-item
+                    a.nav-link(href="/signup") Registrer
+                li.nav-item
+                    a.nav-link(href="/login") Log ind
+                li.nav-item
+                    a.nav-link(href="/logout") Log ud
