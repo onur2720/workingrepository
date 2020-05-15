@@ -1,0 +1,111 @@
+commit 9ba9b2f2662c12719e42d55593f0b8d2fef71661
+Author: Onur Karakus <onka19ab@student.cbs.dk>
+Date:   Fri May 15 05:37:22 2020 +0200
+
+    Færdig med mapping og program kører
+
+commit 7e675f1a0783b0d7f79001b1e164da09500946b8
+Merge: e7d3723 08a3927
+Author: Onur Karakus <onka19ab@student.cbs.dk>
+Date:   Fri May 15 04:55:41 2020 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit e7d3723180d3208dd16bc999b6a8a3b16dede50f
+Author: Onur Karakus <onka19ab@student.cbs.dk>
+Date:   Fri May 15 04:55:25 2020 +0200
+
+    Mappefordeling og commit af frontend 2
+
+commit 08a39279d4eb12fa67bf9615579c1bd6c1a6c821
+Merge: f58bfb9 fea6939
+Author: Hassan-al-sayegh <haal19ag@student.cbs.dk>
+Date:   Fri May 15 04:54:20 2020 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit f58bfb9957b9dcb077f0b0d913c74cd4e074c8a6
+Author: Hassan-al-sayegh <haal19ag@student.cbs.dk>
+Date:   Fri May 15 04:53:57 2020 +0200
+
+    Hassan login pug fil
+
+commit fea69397d36db5d035c729dc92ded1238ab3d7bf
+Author: Onur Karakus <onka19ab@student.cbs.dk>
+Date:   Fri May 15 01:30:01 2020 +0200
+
+    Mappefordeling og commit af frontend
+
+commit 9b0e0c921ddb6699ba3b8e524d60cd22e63b3266
+Author: hussainrafi <hura19ac@student.cbs.dk>
+Date:   Thu May 14 00:28:53 2020 +0200
+
+    loanForm --- Hussain
+
+commit 9d1ff53b6859615624ab1d09a9c04c9d203c7129
+Merge: af5b320 bd70935
+Author: Hassan-al-sayegh <haal19ag@student.cbs.dk>
+Date:   Thu May 14 00:04:59 2020 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit af5b320aa91bc9d62b9d58ccb4c47f220ddcef05
+Author: Hassan-al-sayegh <haal19ag@student.cbs.dk>
+Date:   Thu May 14 00:04:47 2020 +0200
+
+    viderfølger af CheckForAdmin kodning
+
+commit bd70935a9b2a6c5c3c66fffe63b2f433e0512221
+Author: tayyablatif <mola19af@student.cbs.dk>
+Date:   Thu May 14 00:03:33 2020 +0200
+
+    landing.js
+
+commit 20262bd9132554e6a76950397e0847d5e70f409a
+Author: tayyablatif <mola19af@student.cbs.dk>
+Date:   Wed May 13 20:33:56 2020 +0200
+
+    landing.js
+
+commit e785f86146383ca8a2f6a56ee914a6e31c352240
+Author: tayyablatif <mola19af@student.cbs.dk>
+Date:   Wed May 13 20:32:49 2020 +0200
+
+    hasAuth
+
+commit 942867b9461be4def55d7420cf793d1c8fb386e0
+Merge: 9655000 d99707a
+Author: Hassan-al-sayegh <haal19ag@student.cbs.dk>
+Date:   Wed May 13 19:18:43 2020 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 9655000e25217f2c1d4d7bfab448a76a3306982d
+Author: Hassan-al-sayegh <haal19ag@student.cbs.dk>
+Date:   Wed May 13 19:18:19 2020 +0200
+
+    admin check
+
+commit d99707a2bb60d084631535b0effdb72284951792
+Author: hussainrafi <hura19ac@student.cbs.dk>
+Date:   Wed May 13 04:35:36 2020 +0200
+
+    Valideringer tilføjet --Hussain
+
+commit b5c77755b6a8348f84982116eb26218765e98149
+Author: tayyablatif <mola19af@student.cbs.dk>
+Date:   Wed May 13 00:11:17 2020 +0200
+
+    hasAuth
+
+commit ffde75f21bbf69a0290df06a5fda6dfac8b73069
+Author: Hassan-al-sayegh <haal19ag@student.cbs.dk>
+Date:   Tue May 12 23:38:25 2020 +0200
+
+    Login
+
+commit f338f4f03a9238d629f69c14dbe3d63e2e474b5b
+Author: Onur Karakus <onka19ab@student.cbs.dk>
+Date:   Tue May 12 23:11:23 2020 +0200
+
+    first commit
