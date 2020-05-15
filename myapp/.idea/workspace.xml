@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="583ca6a1-fedb-4ed4-b104-e2a4fcb1c937" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nvm" />
+  </component>
+  <component name="ProjectId" id="1bfqbgHs600gL6D8BclLcXjRWkQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myapp/views/loan" />
+      <recent name="$PROJECT_DIR$/myapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="583ca6a1-fedb-4ed4-b104-e2a4fcb1c937" name="Default Changelist" comment="" />
+      <created>1589033569247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589033569247</updated>
+      <workItem from="1589033570456" duration="35651000" />
+      <workItem from="1589283544134" duration="3553000" />
+      <workItem from="1589313659243" duration="399000" />
+      <workItem from="1589320353624" duration="31000" />
+      <workItem from="1589364652761" duration="963000" />
+      <workItem from="1589389020998" duration="1897000" />
+      <workItem from="1589444044594" duration="4872000" />
+      <workItem from="1589498456440" duration="16000" />
+      <workItem from="1589498490306" duration="19000" />
+      <workItem from="1589498534995" duration="22000" />
+      <workItem from="1589498622693" duration="10000" />
+      <workItem from="1589498651500" duration="21000" />
+      <workItem from="1589498708506" duration="25000" />
+      <workItem from="1589498760501" duration="20000" />
+      <workItem from="1589498847869" duration="18000" />
+      <workItem from="1589498879869" duration="35000" />
+      <workItem from="1589498950675" duration="12000" />
+      <workItem from="1589508157654" duration="740000" />
+      <workItem from="1589511464469" duration="14000" />
+      <workItem from="1589511540553" duration="13000" />
+      <workItem from="1589511630070" duration="10000" />
+      <workItem from="1589511644614" duration="1000" />
+      <workItem from="1589511688907" duration="38000" />
+      <workItem from="1589511730554" duration="7000" />
+      <workItem from="1589511755529" duration="84000" />
+      <workItem from="1589511951218" duration="18000" />
+      <workItem from="1589511990373" duration="17000" />
+      <workItem from="1589512031347" duration="10000" />
+      <workItem from="1589512072331" duration="14000" />
+      <workItem from="1589512103876" duration="17000" />
+      <workItem from="1589512150415" duration="10000" />
+      <workItem from="1589512188860" duration="17000" />
+      <workItem from="1589512269299" duration="41000" />
+      <workItem from="1589512590137" duration="22000" />
+      <workItem from="1589512638398" duration="8000" />
+      <workItem from="1589512701923" duration="18000" />
+      <workItem from="1589512752958" duration="13000" />
+      <workItem from="1589512793991" duration="18000" />
+      <workItem from="1589512841103" duration="2000" />
+      <workItem from="1589512889111" duration="12000" />
+      <workItem from="1589512906384" duration="2000" />
+      <workItem from="1589512926009" duration="6000" />
+      <workItem from="1589512952741" duration="8000" />
+      <workItem from="1589512975379" duration="12000" />
+      <workItem from="1589513299303" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
